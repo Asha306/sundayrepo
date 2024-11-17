@@ -8,6 +8,7 @@ public class SundayTest {
 public void createSundayTest() {
 	System.out.println("hii");
 	System.out.println("hello");
+	System.out.println("h r u");
 	
 	
 	
